@@ -30,12 +30,12 @@ We take live streaming of video frames from a webcam as input. The player is ext
 
 Figure 2: Detected Person
 
-Figure 3: Pose Detection and Mapping onto Character on Screen
+Figure 3: Pose Detection and Mapping onto Character on Screen.
 Thus, a simple breakup of the tasks performed is as follows:
-Foreground Detection
-Posture Recognition/Estimation
-Static Pose (Standing, Crouching)
-Dynamic Pose (Jumping, Shooting)
+Foreground Detection,
+Posture Recognition/Estimation,
+Static Pose (Standing, Crouching),
+Dynamic Pose (Jumping, Shooting),
 Posture Mapping onto the Mario
 
 
